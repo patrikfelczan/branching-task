@@ -1,6 +1,8 @@
 'use strict';
 
-function greet(){
-  let name = 'Patrick Felczan';
+function greet(name){
+  
   console.log(name);
 }
+
+greet('JAVASCRIPT');

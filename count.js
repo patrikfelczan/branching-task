@@ -1,3 +1,7 @@
 'use strict';
 
-console.log('27');
+function count (age) {
+console.log('age');
+}
+
+count(27);
